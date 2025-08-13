@@ -61,6 +61,8 @@ section .grid .card span{
   background: #8B7E74; /* Warm Taupe */
   color: #FAFAFA; /* Off-White */
   position: relative;
+  padding: 3px;
+  float: right;
 }
 
 section .overlay{
